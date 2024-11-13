@@ -1,3 +1,6 @@
+Name: Muhammad Uzair
+Rollno: CT-24079 (B)
+
 # Simple Calculator Project
 
 ## Overview
